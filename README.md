@@ -1,6 +1,6 @@
 # Snake
 
-My first game made using C language.
+My first game, written in C language.
 There are 7 different levels. Player can directly select any level he wants to play. Higher levels are more difficult.
 
 Player can move the snake using arrow keys or 'w','a','s','d'.
