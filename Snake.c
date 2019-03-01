@@ -90,6 +90,8 @@ void set_snake()
 	headx[1]=3;
 	heady[2]=3;
 	heady[1]=4;
+	headx[0]=3;
+	heady[0]=3;
 	board[snakeh_x][snakeh_y]='o';
 }
 
